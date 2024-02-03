@@ -1,7 +1,9 @@
 # <span style="font-family: 'Courier New', monospace;">Hi, I'm Samih 👋🏽👨🏾‍💻</span>
 **`Developer`**
 
-<span style="font-family: 'Courier New', monospace;"> Welcome to my Github! I am a passionate Front-End Developer with a keen eye for creating visually appealing and responsive user interfaces. With a solid foundation in web development, I bring a meticulous approach to crafting engaging digital experiences. Passionate about staying at the forefront of industry trends, I am also exploring the exciting intersection of web and game development.</span> 
+<span style="font-family: 'Courier New', monospace;"> Welcome to my GitHub playground! I'm a Front-End Developer with a love for crafting eye-catching and user-friendly interfaces. I've got the basics of web development down pat, and I'm all about creating digital experiences that really pop.
+
+I'm not just stopping at web stuff – I'm diving into the world of game development too! 🎮 Always keeping an eye on the latest trends and constantly experimenting to stay on top of my game.</span> 
 
 ### <span style="font-family: 'Courier New', monospace;">🧰 Languages and Tools </span>
 
