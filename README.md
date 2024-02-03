@@ -3,11 +3,6 @@
 
 <span style="font-family: 'Courier New', monospace;"> Welcome to my Github! I am a passionate Front-End Developer with a keen eye for creating visually appealing and responsive user interfaces. With a solid foundation in web development, I bring a meticulous approach to crafting engaging digital experiences. Passionate about staying at the forefront of industry trends, I am also exploring the exciting intersection of web and game development.</span> 
 
-
-![giphy](https://github.com/samihwadi/SamihWadi/assets/123220794/caca4916-b771-4898-963d-2f22b8273e4f)
-
-
-
 ### <span style="font-family: 'Courier New', monospace;">🧰 Languages and Tools </span>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
