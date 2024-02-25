@@ -1,5 +1,5 @@
 # <span style="font-family: 'Courier New', monospace;">Hi, I'm Samih 👋🏽👨🏾‍💻</span>
-**`Developer`**
+**`Developer | Computer Science @TMU`**
 
 <span style="font-family: 'Courier New', monospace;"> Welcome to my GitHub! I'm an aspiring Front-End Developer with a love for crafting eye-catching and user-friendly interfaces. I've got the basics of web development down pat, and I'm all about creating digital experiences that really pop.
 
