@@ -5,6 +5,15 @@
 
 I'm not just stopping at web stuff – I'm diving into the world of game development too! 🎮 Always keeping an eye on the latest trends and constantly experimenting to stay on top of my game.</span> 
 
+<div>
+    <a href="https://github.com/samihwadi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=samihwadi&theme=dark&show_icons=true&hide_border=false&count_private=true">
+    </a>
+    <a href="https://github.com/samihwadi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihwadi&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
+    </a>
+</div>
+
 ### <span style="font-family: 'Courier New', monospace;">🧰 Languages and Tools </span>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
