@@ -10,7 +10,7 @@ I'm not just stopping at web stuff – I'm diving into the world of game develop
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=samihwadi&theme=radical&show_icons=true&hide_border=false&count_private=true">
     </a>
     <a href="https://github.com/samihwadi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihwadi&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihwadi&theme=radical&show_icons=true&hide_border=false&layout=donut-vertical" alt="Top Languages">
     </a>
 </div>
 
