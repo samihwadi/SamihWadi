@@ -5,12 +5,12 @@
 
 I'm not just stopping at web stuff – I'm diving into the world of game development too! 🎮 Always keeping an eye on the latest trends and constantly experimenting to stay on top of my game.</span> 
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div>
     <a href="https://github.com/samihwadi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihwadi&theme=radical&show_icons=true&hide_border=false" style="width: 435px; height: auto;" alt="Top Languages">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihwadi&theme=radical&show_icons=true&hide_border=false&layout=donut-vertical" alt="Top Languages">
     </a>
     <a href="https://github.com/samihwadi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=samihwadi&theme=radical&show_icons=true&hide_border=false&count_private=true" style="width: 435px; height: auto;" alt="GitHub Stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=samihwadi&theme=radical&show_icons=true&hide_border=false&count_private=true">
     </a>
 </div>
 
